@@ -16,7 +16,7 @@ export default sidebar([
     text: "文章",
     icon: "blog",
     prefix: "/_posts/",
-    link: "/blog",
+    link: "/mine",
     collapsable: true,
     children: "structure",
   }
