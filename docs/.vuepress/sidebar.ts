@@ -4,7 +4,6 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar([
   "/DailyRoutine",
   "/Fitness",
-  "/Read",
     {
     text: "📜 项目管理",
     icon: "",
@@ -13,6 +12,14 @@ export default sidebar([
     collapsable: true,
     children: "structure",
   },
+  {
+    text: "文章",
+    icon: "blog",
+    prefix: "/_posts/",
+    link: "/blog",
+    collapsable: true,
+    children: "structure",
+  }
   // {
   //   text: "🚀 代码",
   //   icon: "",
@@ -61,12 +68,4 @@ export default sidebar([
   //   collapsable: true,
   //   children: "structure",
   // },
-  {
-    text: "文章",
-    icon: "blog",
-    prefix: "/_posts/",
-    link: "/blog",
-    collapsable: true,
-    children: "structure",
-  },
 ]);
