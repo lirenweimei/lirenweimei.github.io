@@ -6,11 +6,11 @@ import sidebar from "./sidebar";
 export default hopeTheme({
   //主题选项
   //https://vuepress-theme-hope.github.io/v2/zh/config/theme/layout.html
-  hostname: "https://newzone.top",
+  hostname: "https://wusw.net",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "里仁为美",
+    url: "https://wusw.net",
   },
 
   iconAssets: "iconfont",
@@ -35,7 +35,7 @@ export default hopeTheme({
   fullscreen: true,
 
   // 默认为 GitHub. 同时也可以是一个完整的 URL
-  repo: "rockbenben/LearnData",
+  repo: "lirenweimei/OpenNote",
   // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
   repoLabel: "GitHub",
   // 是否在导航栏内显示仓库链接，默认为 `true`
@@ -70,21 +70,21 @@ export default hopeTheme({
   //https://vuepress-theme-hope.github.io/v2/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "Category", "Tag", "ReadingTime", "PageView"],
-    name: "清顺",
+    name: "里仁为美",
     avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    description: "喜欢思考、复盘、喜欢尝试新鲜事物，为实现人生目标而奋斗",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      GitHub: "https://github.com/rockbenben",
-      Zhihu: "https://www.zhihu.com/people/qingwhat",
-      Weibo: "https://weibo.com/u/1992817087",
-      Wechat: "http://tc.seoipo.com/wechat.svg",
-      少数派: [
-        "https://sspai.com/u/zqj05i4v/posts",
-        path.resolve(__dirname, "icons/sspai.svg"),
-      ],
-      RSS: "https://newzone.top/rss.xml",
+      // GitHub: "https://github.com/rockbenben",
+      // Zhihu: "https://www.zhihu.com/people/qingwhat",
+      // Weibo: "https://weibo.com/u/1992817087",
+      // Wechat: "http://tc.seoipo.com/wechat.svg",
+      // 少数派: [
+      //   "https://sspai.com/u/zqj05i4v/posts",
+      //   path.resolve(__dirname, "icons/sspai.svg"),
+      // ],
+      // RSS: "https://newzone.top/rss.xml",
     },
   },
 
@@ -104,7 +104,7 @@ export default hopeTheme({
       //Waline 等级标签
       walineLocales: {
         '/': {
-          admin: '盛年不重来，一日难再晨',
+          admin: '路漫漫其修远兮，吾将上下而求索',
           level0: '锻体',
           level1: '炼气',
           level2: '筑基',
