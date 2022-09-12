@@ -99,18 +99,18 @@ export default hopeTheme({
     comment: {
       //部署 Waline：https://waline.js.org/guide/get-started.html
       provider: "Waline",
-      serverURL: "https://waline.newzone.top",
+      serverURL: "https://waline.wusw.net",
       pageview: true,
       //Waline 等级标签
       walineLocales: {
         '/': {
           admin: '路漫漫其修远兮，吾将上下而求索',
-          level0: '锻体',
-          level1: '炼气',
-          level2: '筑基',
-          level3: '金丹',
-          level4: '元婴',
-          level5: '化神',
+          level0: '种子',
+          level1: '小苗',
+          level2: '小树',
+          level3: '树精',
+          level4: '大树',
+          level5: '古树',
         },
       },
       //Giscus 备用配置
