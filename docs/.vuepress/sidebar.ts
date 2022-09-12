@@ -22,14 +22,6 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🌐 页面开发",
-    icon: "",
-    prefix: "/web/",
-    link: "",
-    collapsable: true,
-    children: "structure",
-  },
-  {
     text: "🏗️ 网站部署",
     icon: "",
     prefix: "/deploy/",
