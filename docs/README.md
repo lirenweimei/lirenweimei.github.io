@@ -1,6 +1,6 @@
 ---
 article: false
-title: 里仁为美 开源笔记
+title: 里仁为美 OpenNote
 icon: note
 ---
 
