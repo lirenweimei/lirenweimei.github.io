@@ -4,11 +4,11 @@ home: true
 layout: Blog
 icon: home
 bgImage: http://tc.seoipo.com/home-bg-1.jpg
-title: 互联网小白
+title: 探索者
 #heroImage: /logo.svg
-heroText: 互联网小白
+heroText: 探索者
 heroFullScreen: false
-tagline: 盛年不重来，一日难再晨
+tagline: 路漫漫其修远兮，吾将上下而求索
 #projects:
 #  - icon: project
 #    name: 项目名称
